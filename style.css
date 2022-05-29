@@ -42,13 +42,19 @@ ul {
   margin: 0;
   padding: 0px;
 }
-.li, .title {
+.li,
+.title {
   list-style: none;
 }
-input, .button, .edit, .delete {
+input,
+.button,
+.edit,
+.delete {
   outline: none;
 }
-.button, .edit, .delete {
+.button,
+.edit,
+.delete {
   background: none;
   border: 0px;
   color: #888;
