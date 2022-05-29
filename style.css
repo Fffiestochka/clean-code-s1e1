@@ -89,7 +89,7 @@ label[for="new-task"] {
   margin: 0 0 20px;
 }
 input#new-task {
-    width: 318px;
+  width: 318px;
 }
 
 /* Task list */
@@ -115,8 +115,8 @@ li > label {
   font-size: 18px;
   width: 226px;
 }
-li >    input[type="text"] {
-    width: 226px
+li >  input[type="text"] {
+  width: 226px
 }
 button.delete img {
   height: 2em;
